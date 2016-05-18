@@ -1,2 +1,2 @@
 # Git101
-* A place to play
+* A nice place to play
